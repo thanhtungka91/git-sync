@@ -26,7 +26,10 @@ If you end up using a different registry, be sure to update `config/deployment.y
 
 ###
 
+
 Create the pod and the service for the blog
+if you using minikube you can open web by cmd 
+ `minikube  service <name>`
 
 ```
 kubectl create -f config

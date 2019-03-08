@@ -28,14 +28,17 @@ If you end up using a different registry, be sure to update `config/deployment.y
 
 
 Create the pod and the service for the blog
-if you using minikube you can open web by cmd 
- `minikube  service <name>`
 
 ```
 kubectl create -f config
 ```
 
 Open the service external ip in your browser
+
+if you using minikube you can open web by cmd 
+
+`minikube  service <name>`
+
 
 
 [![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/git-sync/demo/README.md?pixel)]()

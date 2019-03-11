@@ -44,4 +44,6 @@ if you using minikube you can open web by cmd
 
 `kubectl logs --namespace default blog-764547bb75-kxxq4 git-sync`
 
+## for ssh, please refer doc folder
+
 [![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/git-sync/demo/README.md?pixel)]()
